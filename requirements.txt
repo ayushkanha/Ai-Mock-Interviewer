@@ -10,7 +10,7 @@ gTTS
 
 edge-tts
 SpeechRecognition
-pyaudio 
+PyAudio
 transformers
 torch  
 torch
